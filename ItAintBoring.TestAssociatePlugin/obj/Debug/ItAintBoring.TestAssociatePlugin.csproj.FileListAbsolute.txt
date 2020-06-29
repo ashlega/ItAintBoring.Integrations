@@ -1,0 +1,11 @@
+C:\Work\Projects\ItAintBoring.Integrations\ItAintBoring.TestAssociatePlugin\obj\Debug\ItAintBoring.TestAssociatePlugin.csprojAssemblyReference.cache
+C:\Work\Projects\ItAintBoring.Integrations\ItAintBoring.TestAssociatePlugin\obj\Debug\ItAintBoring.TestAssociatePlugin.csproj.CoreCompileInputs.cache
+C:\Work\Projects\ItAintBoring.Integrations\ItAintBoring.TestAssociatePlugin\bin\Debug\ItAintBoring.TestAssociatePlugin.dll
+C:\Work\Projects\ItAintBoring.Integrations\ItAintBoring.TestAssociatePlugin\bin\Debug\ItAintBoring.TestAssociatePlugin.pdb
+C:\Work\Projects\ItAintBoring.Integrations\ItAintBoring.TestAssociatePlugin\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Work\Projects\ItAintBoring.Integrations\ItAintBoring.TestAssociatePlugin\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Work\Projects\ItAintBoring.Integrations\ItAintBoring.TestAssociatePlugin\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Work\Projects\ItAintBoring.Integrations\ItAintBoring.TestAssociatePlugin\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Work\Projects\ItAintBoring.Integrations\ItAintBoring.TestAssociatePlugin\obj\Debug\ItAintBoring.TestAssociatePlugin.csproj.CopyComplete
+C:\Work\Projects\ItAintBoring.Integrations\ItAintBoring.TestAssociatePlugin\obj\Debug\ItAintBoring.TestAssociatePlugin.dll
+C:\Work\Projects\ItAintBoring.Integrations\ItAintBoring.TestAssociatePlugin\obj\Debug\ItAintBoring.TestAssociatePlugin.pdb

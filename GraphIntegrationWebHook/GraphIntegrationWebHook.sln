@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphIntegrationWebHook", "GraphIntegrationWebHook.csproj", "{E35825D5-6319-425A-8F35-A717BFFC2249}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ItAintBoring.TestAssociatePlugin", "..\ItAintBoring.TestAssociatePlugin\ItAintBoring.TestAssociatePlugin.csproj", "{789AF891-02DF-4F3D-A4AC-945E99D7F475}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E35825D5-6319-425A-8F35-A717BFFC2249}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E35825D5-6319-425A-8F35-A717BFFC2249}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E35825D5-6319-425A-8F35-A717BFFC2249}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E35825D5-6319-425A-8F35-A717BFFC2249}.Release|Any CPU.Build.0 = Release|Any CPU
+		{789AF891-02DF-4F3D-A4AC-945E99D7F475}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{789AF891-02DF-4F3D-A4AC-945E99D7F475}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{789AF891-02DF-4F3D-A4AC-945E99D7F475}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{789AF891-02DF-4F3D-A4AC-945E99D7F475}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8115B374-C746-44F0-9D77-A4F049D18749}
+	EndGlobalSection
+EndGlobal
